@@ -1,2 +1,4 @@
 # testCsharp
-testGit
+just a trial in C#
+
+
